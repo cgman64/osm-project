@@ -1,0 +1,14 @@
+https://docs.python.org/2/library/xml.etree.elementtree.html
+Used for learning more about DB API
+
+https://regexone.com/
+Used for learning regex
+
+https://discussions.udacity.com/t/iterative-parsing-counting-tags-taking-too-long-how-to-speed-up/248946/3
+Speed up technique for xml parsing
+
+https://discussions.udacity.com/t/importing-csv-values-into-newly-created-sqlite-table/260521
+Importing csv values into DB tables.
+
+https://discussions.udacity.com/t/how-to-get-percentage-from-sql/192211/2
+Querying percentages in SQL.

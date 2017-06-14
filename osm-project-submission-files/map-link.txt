@@ -1,0 +1,10 @@
+MAPZEN CUSTOM EXTRACT
+https://mapzen.com/data/metro-extracts/your-extracts/b79ce2ce8e0f
+
+The map area I chose contains parts of the Bronx, Manhattan, 
+Queens, and Brooklyn. Relatively speaking my map has a higher 
+representation of Bronx Manhattan and Queens than Brooklyn in 
+my extraction. I wanted to focus on the tri-borough area more 
+specifically. I am interested in what insights and problems in the 
+dataset can be found through database querying. The map also contains 
+a small portion of area in New Jersey due the method of extraction.
